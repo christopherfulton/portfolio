@@ -1,5 +1,5 @@
-theme: jekyll-theme-cayman
 # Site settings
+theme: jekyll-theme-cayman
 title: Your awesome title
 email: chrisfulton@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
